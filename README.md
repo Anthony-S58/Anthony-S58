@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">
+<img src="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
