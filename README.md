@@ -2,7 +2,7 @@
 
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/code-AOSwwqVjNZlDO">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Something
