@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hello World 👋
 I am a web developer student in ACCESS CODE SCHOOL in France
 - 🔭 Working on multiple frontend and backend project using HTML, CSS, Javascript, PHP, Mysql.
