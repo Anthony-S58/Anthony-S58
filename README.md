@@ -2,7 +2,7 @@
 
 
 ### Hello World 👋
-I am a fullstack in ACCESS CODE SCHOOL in France
+I am a web developer student in ACCESS CODE SCHOOL in France
 - 🔭 Working on multiple frontend and backend project using HTML, CSS, Javascript, PHP, Mysql.
 - 🌱 Learning design patterns in depth
 <br>
