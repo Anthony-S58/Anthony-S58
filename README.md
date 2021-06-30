@@ -1,6 +1,6 @@
 ### Hello World 👋
 Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
-- 🔭 je travaille sur beaucoup de projets front-end et back-en. J'utilise HTML, CSS, Javascript, PHP, Mysql.
+- 🔭 je travaille sur beaucoup de projets front-end et back-end. J'utilise HTML, CSS, Javascript, PHP, Mysql.
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anthony-simonneau-5545b8214)
