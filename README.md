@@ -7,10 +7,10 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 
 <br>
 <br>
-![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&layout=compact)](https://github.com/Anthony-S58/github-readme-stats)
+!Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&layout=compact)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-![Khuyen's github stats(https://github-readme-stats.vercel.app/api?username=Anthony-S58&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anthony-S58/github-readme-stats)
+!Anthony-S58's github stats(https://github-readme-stats.vercel.app/api?username=Anthony-S58&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anthony-S58/github-readme-stats)
 
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
