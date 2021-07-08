@@ -12,6 +12,15 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 <br>
 [![Top Langs]https://github-readme-stats.vercel.app/api?username=Anthony-S58&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anthony-S58/github-readme-stats
 
+<br>
+
+<a href="https://github.com/Anthony-S58/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anthony-S58&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Anthony-S58/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anthony-S58&repo=convoychat" />
+</a>
+
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
