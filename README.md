@@ -1,11 +1,14 @@
 ### Hello World 👋
-Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
-- 🔭 je travaille sur beaucoup de projets front-end et back-end. J'utilise HTML, CSS, Javascript, PHP, Mysql.
-<br>
-## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/anthony-simonneau-5545b8214)
+Je Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
+- 🔭 je travaille sur beaucoup de projets front-end et back-end. J'utilise HTML, CSS, Javascript, PHP, Mysql et Symfony.
 
 <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anthony-simonneau-5545b8214" target="blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 <br>
 
 ![Anthony-S58's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-S58&theme=tokyonight&show_icons=true)
@@ -19,8 +22,6 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-S58&theme=onedark)](https://github.com/Anthony-S58/github-profile-trophy)
 <br>
-<br>
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fvectoriel%2Fcode-de-programmation-coding-ou-hacker-fond-ic%25C3%25B4ne-de-code-de-programmation-faite-gm1221190912-357859401&psig=AOvVaw29HbtAURh2tIngzo60QFMT&ust=1632560313726000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNC-7p6fl_MCFQAAAAAdAAAAABAI)](https://github.com/Anthony-S58/)
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
