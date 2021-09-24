@@ -25,7 +25,10 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
 <br>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anthony-simonneau-5545b8214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
