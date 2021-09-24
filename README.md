@@ -13,17 +13,17 @@ Je Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en Fran
 ![Anthony-S58's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-S58&theme=tokyonight&show_icons=true)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58)](https://github.com/Anthony-S58/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&theme=tokyonight)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-[![Anthony-S58's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anthony-S58)](https://github.com/Anthony-S58/github-readme-stats)
+[![Anthony-S58's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anthony-S58&theme=tokyonight)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-S58&theme=onedark)](https://github.com/Anthony-S58/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-S58&theme=tokyonight)](https://github.com/Anthony-S58/github-profile-trophy)
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58&theme=tokyonight)](https://git.io/streak-stats)
 <br>
 
 <!--
