@@ -20,11 +20,13 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-S58&theme=onedark)](https://github.com/Anthony-S58/github-profile-trophy)
 <br>
 <br>
-
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fvectoriel%2Fcode-de-programmation-coding-ou-hacker-fond-ic%25C3%25B4ne-de-code-de-programmation-faite-gm1221190912-357859401&psig=AOvVaw29HbtAURh2tIngzo60QFMT&ust=1632560313726000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNC-7p6fl_MCFQAAAAAdAAAAABAI)]((https://github.com/Anthony-S58/)
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
+<br>
 
-
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
