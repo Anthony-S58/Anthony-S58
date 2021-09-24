@@ -7,7 +7,8 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 
 <br>
 <br>
-[![Anthony's github stats]https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&layout=compact)](https://github.com/Anthony-S58/github-readme-stats)
+?theme=THEME_NAME
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <br>
 <br>
 [![Top Langs]https://github-readme-stats.vercel.app/api?username=Anthony-S58&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anthony-S58/github-readme-stats
