@@ -14,14 +14,12 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Anthony-S58/github-readme-stats)
+[![Anthony-S58's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anthony-S58)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&hide=javascript,html)](https://github.com/Anthony-S58/github-readme-stats)
 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&langs_count=8)](https://github.com/Anthony-S58/github-readme-stats)
 
 <br>
 
