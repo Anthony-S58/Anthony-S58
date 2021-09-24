@@ -3,7 +3,10 @@ Je Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en Fran
 - 🔭 je travaille sur beaucoup de projets front-end et back-end. J'utilise HTML, CSS, Javascript, PHP, Mysql et Symfony.
 
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anthony-simonneau-5545b8214" target="blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,10 +29,7 @@ Je Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en Fran
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anthony-S58)](https://git.io/streak-stats)
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anthony-simonneau-5545b8214" target="blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
+
 <!--
 **Anthony-S58/Anthony-S58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
