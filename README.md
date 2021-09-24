@@ -17,7 +17,7 @@ Je suis un développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
 [![Anthony-S58's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anthony-S58)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-S58&theme=onedark)](https://github.com/Anthony-S58/github-profile-trophy)
 <br>
 <br>
 
