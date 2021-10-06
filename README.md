@@ -16,7 +16,7 @@ Je suis Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-S58&theme=tokyonight)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
-[![Anthony-S58's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyS58&theme=tokyonight)](https://github.com/Anthony-S58/github-readme-stats)
+[![Anthony-S58's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyS-58&theme=tokyonight)](https://github.com/Anthony-S58/github-readme-stats)
 <br>
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anthony-S58&theme=tokyonight)](https://github.com/Anthony-S58/github-profile-trophy)
