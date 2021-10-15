@@ -9,6 +9,7 @@ Je suis Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en
 </p>
 <br>
 <br>
+  **********
 
 ![Anthony-S58's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-S58&theme=tokyonight&show_icons=true)
 <br>
