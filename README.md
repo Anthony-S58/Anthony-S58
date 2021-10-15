@@ -8,8 +8,8 @@ Je suis Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en
 <a href="https://www.linkedin.com/in/anthony-simonneau-5545b8214" target="blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 <br>
-<br>
-  **********
+
+ __________________________
 
 ![Anthony-S58's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-S58&theme=tokyonight&show_icons=true)
 <br>
