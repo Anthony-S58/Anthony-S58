@@ -1,6 +1,7 @@
 ### Hello World 👋
-Je suis Anthony SIMONNEAU, développeur Web étudiant à l'ACCESS CODE SCHOOL en France.
+Je suis Anthony SIMONNEAU, développeur Web/Web Mobile étudiant à l'ACCESS CODE SCHOOL en France.
 - 🔭 Je me perfectionne sur de nombreux projets front-end et back-end. J'utilise HTML, CSS, Javascript, PHP, Mysql et Symfony.
+
 
 <br>
 <h3 align="left">Connect with me:</h3>
